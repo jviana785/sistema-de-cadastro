@@ -1,4 +1,4 @@
 # sistema-de-cadastro
 "status do projeto: em desenvolvimento"
-"npm install react" 
+"node app.js" 
 "criando o arquivo readme"
